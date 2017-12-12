@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.microsoft.azure</groupId>
+  <artifactId>applicationinsights-logging-logback</artifactId>
+  <version>1.0.11-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20171212014320</lastUpdated>
+  </versioning>
+</metadata>
